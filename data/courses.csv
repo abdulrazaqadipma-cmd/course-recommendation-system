@@ -1,0 +1,900 @@
+Faculty,Department,Level,Semester,Course Code,Course Title,Unit,Course Type,Prerequisite,Interest Area
+Faculty of Computing and Sciences,Computer Science,100,First Semester,CSC101,Introduction to Computer Science,2,Compulsory,None,General Computing
+Faculty of Computing and Sciences,Computer Science,100,First Semester,CSC103,Computer Application Packages,2,Compulsory,None,General Computing
+Faculty of Computing and Sciences,Computer Science,100,First Semester,MTH101,Elementary Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Computing and Sciences,Computer Science,100,First Semester,PHY101,General Physics I,3,Compulsory,None,Physics
+Faculty of Computing and Sciences,Computer Science,100,First Semester,STA101,Introduction to Statistics,2,Compulsory,None,Statistics
+Faculty of Computing and Sciences,Computer Science,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Computing and Sciences,Computer Science,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,CSC102,Programming Fundamentals,3,Compulsory,None,Programming
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,CSC104,Computer Practical,2,Compulsory,CSC101,General Computing
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,MTH102,Elementary Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,PHY102,General Physics II,3,Compulsory,PHY101,Physics
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,STA102,Probability and Statistics,2,Compulsory,STA101,Statistics
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Computing and Sciences,Computer Science,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Computer Science,200,First Semester,CSC201,Object Oriented Programming,3,Compulsory,CSC102,Programming
+Faculty of Computing and Sciences,Computer Science,200,First Semester,CSC203,Discrete Structures,3,Compulsory,MTH102,Mathematics
+Faculty of Computing and Sciences,Computer Science,200,First Semester,CSC205,Computer Organization and Architecture,3,Compulsory,CSC101,Computer Architecture
+Faculty of Computing and Sciences,Computer Science,200,First Semester,CSC207,Computer Laboratory I,1,Compulsory,CSC104,Practical Computing
+Faculty of Computing and Sciences,Computer Science,200,First Semester,MTH201,Linear Algebra,3,Compulsory,MTH102,Mathematics
+Faculty of Computing and Sciences,Computer Science,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+Faculty of Computing and Sciences,Computer Science,200,First Semester,STA201,Statistical Methods,2,Compulsory,STA102,Statistics
+
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,CSC202,Data Structures,3,Compulsory,CSC201,Programming
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,CSC204,Operating Systems,3,Compulsory,CSC205,Operating Systems
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,CSC206,System Analysis and Design,3,Compulsory,CSC201,System Design
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,CSC208,Computer Laboratory II,1,Compulsory,CSC207,Practical Computing
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,CSC210,Computer Networks I,3,Compulsory,CSC205,Networking
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,STA202,Probability and Statistics,3,Compulsory,STA201,Statistics
+Faculty of Computing and Sciences,Computer Science,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC301,Database Management System,3,Compulsory,CSC202,Database
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC303,Computer Networks,3,Compulsory,CSC204,Networking
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC305,Software Engineering,3,Compulsory,CSC206,Software Development
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC307,Algorithm Design and Analysis,3,Compulsory,CSC202,Programming
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC309,Web Design and Internet Programming,3,Elective,CSC201,Web Development
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC311,Numerical Methods,3,Compulsory,MTH201,Mathematics
+Faculty of Computing and Sciences,Computer Science,300,First Semester,CSC313,Computer Laboratory III,1,Compulsory,CSC208,Practical Computing
+
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC302,Web Application Development,3,Elective,CSC309,Web Development
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC304,Computer Graphics,3,Elective,CSC202,Graphics
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC306,Compiler Construction,3,Compulsory,CSC307,Programming
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC308,Mobile Application Development,3,Elective,CSC201,Mobile Development
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC310,Research Methodology in Computing,2,Compulsory,None,Research
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC312,Computer Laboratory IV,1,Compulsory,CSC313,Practical Computing
+Faculty of Computing and Sciences,Computer Science,300,Second Semester,CSC314,Human Computer Interaction,3,Compulsory,CSC305,Software Development
+
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC401,Artificial Intelligence,3,Elective,CSC202,Artificial Intelligence
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC403,Machine Learning,3,Elective,CSC401,Artificial Intelligence
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC405,Cyber Security,3,Elective,CSC303,Cybersecurity
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC407,Cloud Computing,3,Elective,CSC303,Cloud Computing
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC409,Human Computer Interaction,3,Compulsory,CSC305,Software Development
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC411,Computer Seminar,2,Compulsory,CSC310,Research
+Faculty of Computing and Sciences,Computer Science,400,First Semester,CSC413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC402,Final Year Project,6,Compulsory,CSC310,Research
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC404,Data Mining,3,Elective,CSC301,Data Science
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC406,Information Systems Management,3,Compulsory,CSC305,Information Systems
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC408,Distributed Systems,3,Elective,CSC204,Distributed Systems
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC410,Professional Ethics in Computing,2,Compulsory,None,General Computing
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC412,Computer Project Seminar,2,Compulsory,CSC402,Research
+Faculty of Computing and Sciences,Computer Science,400,Second Semester,CSC414,Enterprise Systems Development,3,Elective,CSC406,Information Systems
+
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,SEN101,Introduction to Software Engineering,2,Compulsory,None,Software Development
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,CSC101,Introduction to Computer Science,2,Compulsory,None,Computing
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,MTH101,Elementary Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,PHY101,General Physics I,3,Compulsory,None,Physics
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,STA101,Introduction to Statistics,2,Compulsory,None,Statistics
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Computing and Sciences,Software Engineering,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,SEN102,Programming Principles,3,Compulsory,None,Programming
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,CSC102,Computer Programming Fundamentals,3,Compulsory,CSC101,Programming
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,MTH102,Elementary Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,PHY102,General Physics II,3,Compulsory,PHY101,Physics
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,STA102,Probability and Statistics,2,Compulsory,STA101,Statistics
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Computing and Sciences,Software Engineering,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,SEN201,Object Oriented Software Development,3,Compulsory,SEN102,Software Development
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,SEN203,Discrete Structures,3,Compulsory,MTH102,Mathematics
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,SEN205,Computer Architecture,3,Compulsory,CSC101,Computer Architecture
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,SEN207,Software Engineering Laboratory I,1,Compulsory,SEN102,Software Development
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,MTH201,Linear Algebra,3,Compulsory,MTH102,Mathematics
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,STA201,Statistical Methods,2,Compulsory,STA102,Statistics
+Faculty of Computing and Sciences,Software Engineering,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,SEN202,Software Requirements Engineering,3,Compulsory,SEN201,Software Development
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,SEN204,Data Structures and Algorithms,3,Compulsory,SEN201,Programming
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,SEN206,System Analysis and Design,3,Compulsory,SEN201,System Design
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,SEN208,Operating Systems,3,Compulsory,SEN205,Operating Systems
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,SEN210,Software Engineering Laboratory II,1,Compulsory,SEN207,Software Development
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,SEN212,Database Systems,3,Compulsory,SEN204,Database
+Faculty of Computing and Sciences,Software Engineering,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN301,Software Design and Architecture,3,Compulsory,SEN201,Software Design
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN303,Database Systems,3,Compulsory,SEN204,Database
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN305,Computer Networks,3,Compulsory,SEN208,Networking
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN307,Human Computer Interaction,3,Compulsory,SEN202,Software Development
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN309,Web Engineering,3,Elective,SEN204,Web Development
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN311,Software Engineering Laboratory III,1,Compulsory,SEN210,Software Development
+Faculty of Computing and Sciences,Software Engineering,300,First Semester,SEN313,Software Project Planning and Estimation,3,Compulsory,SEN202,Project Management
+
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN302,Software Testing and Quality Assurance,3,Compulsory,SEN301,Software Testing
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN304,Software Configuration Management,3,Compulsory,SEN301,Software Development
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN306,Mobile Application Development,3,Elective,SEN204,Mobile Development
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN308,Software Metrics and Measurement,3,Compulsory,SEN301,Software Quality
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN310,Research Methods in Software Engineering,2,Compulsory,None,Research
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN312,Software Engineering Laboratory IV,1,Compulsory,SEN311,Software Development
+Faculty of Computing and Sciences,Software Engineering,300,Second Semester,SEN314,Software Maintenance and Evolution,3,Compulsory,SEN302,Software Development
+
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN401,Software Project Management,3,Compulsory,SEN301,Project Management
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN403,Software Process Improvement,3,Compulsory,SEN302,Software Quality
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN405,Enterprise Software Development,3,Elective,SEN301,Software Development
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN407,Cloud Software Engineering,3,Elective,SEN305,Cloud Computing
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN409,Professional Practice and Ethics,2,Compulsory,None,Professional Ethics
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN411,Software Engineering Seminar,2,Compulsory,SEN310,Research
+Faculty of Computing and Sciences,Software Engineering,400,First Semester,SEN413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN402,Software Engineering Project,6,Compulsory,SEN401,Research
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN404,Software Maintenance and Evolution,3,Compulsory,SEN302,Software Development
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN406,Software Security Engineering,3,Elective,SEN305,Cybersecurity
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN408,Emerging Trends in Software Engineering,2,Elective,SEN401,Software Development
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN410,Industrial Training Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN412,Project Defense and Presentation,2,Compulsory,SEN402,Research
+Faculty of Computing and Sciences,Software Engineering,400,Second Semester,SEN414,Software Entrepreneurship and Innovation,3,Elective,SEN401,Entrepreneurship
+
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,CYB101,Introduction to Cyber Security,2,Compulsory,None,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,CSC101,Introduction to Computer Science,2,Compulsory,None,Computing
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,MTH101,Elementary Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,PHY101,General Physics I,3,Compulsory,None,Physics
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,STA101,Introduction to Statistics,2,Compulsory,None,Statistics
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Computing and Sciences,Cyber Security,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,CYB102,Computer Networks,3,Compulsory,None,Networking
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,CSC102,Programming Fundamentals,3,Compulsory,CSC101,Programming
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,MTH102,Elementary Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,PHY102,General Physics II,3,Compulsory,PHY101,Physics
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,STA102,Introduction to Statistics II,2,Compulsory,STA101,Statistics
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Computing and Sciences,Cyber Security,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,CYB201,Network Security,3,Compulsory,CYB102,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,CYB203,Computer Architecture and Security,3,Compulsory,CSC101,Computer Architecture
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,CYB205,Data Structures and Algorithms,3,Compulsory,CSC102,Programming
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,CYB207,Operating Systems Security,3,Compulsory,CYB102,Operating Systems
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,CYB209,Cyber Security Laboratory I,1,Compulsory,CYB102,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,STA201,Statistical Methods,2,Compulsory,STA102,Statistics
+Faculty of Computing and Sciences,Cyber Security,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,CYB202,Cryptography,3,Compulsory,CYB201,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,CYB204,Secure Programming,3,Compulsory,CYB205,Programming
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,CYB206,System Analysis and Design,3,Compulsory,CYB205,System Design
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,CYB208,Database Security,3,Compulsory,CYB205,Database Security
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,CYB210,Cyber Security Laboratory II,1,Compulsory,CYB209,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,CYB212,Computer Networks Security Administration,3,Compulsory,CYB201,Networking
+Faculty of Computing and Sciences,Cyber Security,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB301,Ethical Hacking,3,Elective,CYB201,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB303,Penetration Testing,3,Compulsory,CYB201,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB305,Information Security Management,3,Compulsory,CYB202,Information Security
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB307,Wireless Network Security,3,Compulsory,CYB201,Networking
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB309,Cyber Law and Ethics,2,Compulsory,None,Cyber Law
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB311,Cyber Security Laboratory III,1,Compulsory,CYB210,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,300,First Semester,CYB313,Digital Risk Management,3,Compulsory,CYB305,Risk Management
+
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB302,Web Application Security,3,Compulsory,CYB301,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB304,Cloud Security,3,Compulsory,CYB303,Cloud Security
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB306,Malware Analysis,3,Compulsory,CYB303,Malware Analysis
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB308,Incident Response and Recovery,3,Compulsory,CYB305,Incident Response
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB310,Research Methods in Cyber Security,2,Compulsory,None,Research
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB312,Cyber Security Laboratory IV,1,Compulsory,CYB311,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,300,Second Semester,CYB314,Security Operations Center Management,3,Compulsory,CYB308,Cybersecurity
+
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB401,Digital Forensics,3,Compulsory,CYB201,Digital Forensics
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB403,Advanced Cyber Defense,3,Compulsory,CYB302,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB405,Security Operations Center Management,3,Compulsory,CYB308,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB407,Artificial Intelligence for Security,3,Elective,CYB403,Artificial Intelligence
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB409,Professional Practice and Ethics,2,Compulsory,None,Professional Ethics
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB411,Cyber Security Seminar,2,Compulsory,CYB310,Research
+Faculty of Computing and Sciences,Cyber Security,400,First Semester,CYB413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB402,Cyber Security Project,6,Compulsory,CYB401,Research
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB404,Advanced Threat Intelligence,3,Compulsory,CYB403,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB406,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB408,Blockchain Security,3,Elective,CYB202,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB410,Emerging Trends in Cyber Security,2,Elective,CYB403,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB412,Cyber Security Policy and Governance,3,Compulsory,CYB305,Cybersecurity
+Faculty of Computing and Sciences,Cyber Security,400,Second Semester,CYB414,Project Defense and Presentation,2,Compulsory,CYB402,Research
+
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,PHE101,General Physics I,3,Compulsory,None,Physics
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,PHY103,Practical Physics I,1,Compulsory,None,Physics
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,MTH101,Elementary Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,CHM101,General Chemistry I,3,Compulsory,None,Chemistry
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,CSC101,Introduction to Computer Science,2,Compulsory,None,Computing
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Computing and Sciences,Physics with Electronics,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,PHE102,Electricity and Magnetism,3,Compulsory,PHE101,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,PHY104,Practical Physics II,1,Compulsory,PHY103,Physics
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,MTH102,Elementary Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,CHM102,General Chemistry II,3,Compulsory,CHM101,Chemistry
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,CSC102,Computer Programming Fundamentals,3,Compulsory,CSC101,Programming
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Computing and Sciences,Physics with Electronics,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,PHE201,Electronic Circuits,3,Compulsory,PHE102,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,PHE203,Mathematical Methods in Physics,3,Compulsory,MTH102,Mathematics
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,PHE205,Modern Physics,3,Compulsory,PHE101,Physics
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,PHE207,Digital Logic Design,3,Compulsory,PHE102,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,PHE209,Physics Laboratory III,1,Compulsory,PHY104,Physics
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,MTH201,Linear Algebra,3,Compulsory,MTH102,Mathematics
+Faculty of Computing and Sciences,Physics with Electronics,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,PHE202,Analogue Electronics,3,Compulsory,PHE201,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,PHE204,Thermodynamics and Statistical Physics,3,Compulsory,PHE205,Physics
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,PHE206,Electromagnetic Theory,3,Compulsory,PHE102,Physics
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,PHE208,Workshop Practice and Instrumentation,2,Compulsory,PHE201,Instrumentation
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,PHE210,Physics Laboratory IV,1,Compulsory,PHE209,Physics
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,STA202,Probability and Statistics,3,Compulsory,None,Statistics
+Faculty of Computing and Sciences,Physics with Electronics,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE301,Digital Electronics,3,Compulsory,PHE201,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE303,Solid State Physics,3,Compulsory,PHE205,Physics
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE305,Electronic Measurement and Instrumentation,3,Compulsory,PHE208,Instrumentation
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE307,Signals and Systems,3,Compulsory,PHE202,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE309,Research Methods in Physics,2,Compulsory,None,Research
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE311,Physics Laboratory V,1,Compulsory,PHE210,Physics
+Faculty of Computing and Sciences,Physics with Electronics,300,First Semester,PHE313,Communication Principles,3,Compulsory,PHE307,Electronics
+
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE302,Microprocessor Systems,3,Compulsory,PHE301,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE304,Semiconductor Devices,3,Compulsory,PHE303,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE306,Control Systems,3,Compulsory,PHE307,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE308,Embedded Systems Design,3,Compulsory,PHE302,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE312,Physics Laboratory VI,1,Compulsory,PHE311,Physics
+Faculty of Computing and Sciences,Physics with Electronics,300,Second Semester,PHE314,Electronic Communication Systems,3,Compulsory,PHE313,Electronics
+
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE401,Communication Electronics,3,Elective,PHE301,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE403,Wireless Communication Systems,3,Compulsory,PHE401,Telecommunication
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE405,Power Electronics,3,Compulsory,PHE202,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE407,Advanced Instrumentation,3,Compulsory,PHE305,Instrumentation
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE409,Professional Ethics and Practice,2,Compulsory,None,Professional Ethics
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE411,Electronics Seminar,2,Compulsory,PHE309,Research
+Faculty of Computing and Sciences,Physics with Electronics,400,First Semester,PHE413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE402,Electronics Project,6,Compulsory,PHE401,Research
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE404,Renewable Energy Systems,3,Elective,PHE206,Energy Systems
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE406,Advanced Digital Systems,3,Compulsory,PHE301,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE408,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE410,Current Trends in Electronics,2,Elective,PHE401,Electronics
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE412,Project Defense and Presentation,2,Compulsory,PHE402,Research
+Faculty of Computing and Sciences,Physics with Electronics,400,Second Semester,PHE414,Microcontroller Applications,3,Elective,PHE302,Electronics
+
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,ICH101,General Chemistry I,3,Compulsory,None,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,ICH103,Chemistry Practical I,1,Compulsory,None,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,MTH101,Elementary Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,PHY101,General Physics I,3,Compulsory,None,Physics
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,BIO101,General Biology I,2,Compulsory,None,Biology
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Computing and Sciences,Industrial Chemistry,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,ICH102,Organic Chemistry I,3,Compulsory,ICH101,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,ICH104,Chemistry Practical II,1,Compulsory,ICH103,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,MTH102,Elementary Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,PHY102,General Physics II,3,Compulsory,PHY101,Physics
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,BIO102,General Biology II,2,Compulsory,BIO101,Biology
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Computing and Sciences,Industrial Chemistry,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,ICH201,Physical Chemistry,3,Compulsory,ICH102,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,ICH203,Inorganic Chemistry,3,Compulsory,ICH101,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,ICH205,Quantitative Analysis,3,Compulsory,ICH101,Analytical Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,ICH207,Chemistry Practical III,1,Compulsory,ICH104,Chemistry Practical
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,BCH201,Basic Biochemistry,2,Compulsory,None,Biochemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,STA201,Statistical Methods,2,Compulsory,None,Statistics
+Faculty of Computing and Sciences,Industrial Chemistry,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,ICH202,Analytical Chemistry,3,Compulsory,ICH201,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,ICH204,Organic Chemistry II,3,Compulsory,ICH102,Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,ICH206,Instrumental Analysis,3,Compulsory,ICH205,Instrumentation
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,ICH208,Chemical Thermodynamics,3,Compulsory,ICH201,Physical Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,ICH210,Chemistry Practical IV,1,Compulsory,ICH207,Chemistry Practical
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,ICH212,Environmental Chemistry,2,Compulsory,ICH202,Environmental Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH301,Industrial Chemical Processes,3,Compulsory,ICH201,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH303,Environmental Chemistry,3,Compulsory,ICH202,Environmental Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH305,Chemical Kinetics,3,Compulsory,ICH208,Physical Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH307,Industrial Safety and Hazard Management,2,Compulsory,None,Industrial Safety
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH309,Research Methods in Chemistry,2,Compulsory,None,Research
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH311,Chemistry Practical V,1,Compulsory,ICH210,Chemistry Practical
+Faculty of Computing and Sciences,Industrial Chemistry,300,First Semester,ICH313,Process Control in Chemical Industry,3,Compulsory,ICH301,Industrial Chemistry
+
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH302,Petroleum Chemistry,3,Compulsory,ICH301,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH304,Industrial Quality Control,3,Compulsory,ICH206,Quality Control
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH306,Corrosion and Materials Chemistry,3,Compulsory,ICH203,Materials Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH308,Industrial Instrumentation,3,Compulsory,ICH206,Instrumentation
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH312,Chemistry Practical VI,1,Compulsory,ICH311,Chemistry Practical
+Faculty of Computing and Sciences,Industrial Chemistry,300,Second Semester,ICH314,Industrial Raw Materials and Products,3,Compulsory,ICH301,Industrial Chemistry
+
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH401,Polymer Chemistry,3,Elective,ICH301,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH403,Petrochemical Technology,3,Compulsory,ICH302,Petroleum Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH405,Food and Industrial Chemistry,3,Compulsory,ICH301,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH407,Industrial Waste Management,3,Compulsory,ICH303,Environmental Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH409,Professional Ethics in Chemistry,2,Compulsory,None,Professional Ethics
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH411,Chemistry Seminar,2,Compulsory,ICH309,Research
+Faculty of Computing and Sciences,Industrial Chemistry,400,First Semester,ICH413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH402,Industrial Chemistry Project,6,Compulsory,ICH401,Research
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH404,Advanced Polymer Technology,3,Elective,ICH401,Polymer Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH406,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH408,Special Topics in Industrial Chemistry,2,Elective,ICH301,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH410,Current Trends in Industrial Chemistry,2,Elective,ICH301,Industrial Chemistry
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH412,Project Defense and Presentation,2,Compulsory,ICH402,Research
+Faculty of Computing and Sciences,Industrial Chemistry,400,Second Semester,ICH414,Chemical Process Design and Optimization,3,Compulsory,ICH301,Industrial Chemistry
+
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,BTY101,General Biology,3,Compulsory,None,Biology
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,BTY103,Biology Practical I,1,Compulsory,None,Biology
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,CHM101,General Chemistry I,3,Compulsory,None,Chemistry
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,MTH101,Elementary Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,PHY101,General Physics I,3,Compulsory,None,Physics
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Computing and Sciences,Biotechnology,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,BTY102,Introduction to Biotechnology,3,Compulsory,BTY101,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,BTY104,Biology Practical II,1,Compulsory,BTY103,Biology
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,CHM102,General Chemistry II,3,Compulsory,CHM101,Chemistry
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,MTH102,Elementary Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,PHY102,General Physics II,3,Compulsory,PHY101,Physics
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Computing and Sciences,Biotechnology,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,BTY201,Cell Biology,3,Compulsory,BTY102,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,BTY203,Genetics,3,Compulsory,BTY101,Genetics
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,BTY205,Biochemistry I,3,Compulsory,CHM102,Biochemistry
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,BTY207,Bioinformatics Fundamentals,2,Compulsory,None,Bioinformatics
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,BTY209,Biotechnology Laboratory I,1,Compulsory,BTY104,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,STA201,Statistical Methods,2,Compulsory,None,Statistics
+Faculty of Computing and Sciences,Biotechnology,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,BTY202,Microbiology,3,Compulsory,BTY201,Microbiology
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,BTY204,Plant Biotechnology,3,Compulsory,BTY102,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,BTY206,Biochemistry II,3,Compulsory,BTY205,Biochemistry
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,BTY208,Microbial Techniques and Laboratory Methods,2,Compulsory,BTY202,Microbiology
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,BTY210,Biotechnology Laboratory II,1,Compulsory,BTY209,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,BTY212,Applied Ecology and Environmental Biology,3,Compulsory,BTY201,Environmental Biotechnology
+Faculty of Computing and Sciences,Biotechnology,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY301,Genetic Engineering,3,Compulsory,BTY201,Genetics
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY303,Immunology,3,Compulsory,BTY202,Immunology
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY305,Microbial Genetics,3,Compulsory,BTY203,Genetics
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY307,Research Methods in Biotechnology,2,Compulsory,None,Research
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY309,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY311,Biotechnology Laboratory III,1,Compulsory,BTY210,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,300,First Semester,BTY313,Enzyme Technology,3,Compulsory,BTY205,Biotechnology
+
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY302,Molecular Biology,3,Compulsory,BTY301,Molecular Biology
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY304,Recombinant DNA Technology,3,Compulsory,BTY301,Genetic Engineering
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY306,Environmental Biotechnology,3,Compulsory,BTY202,Environmental Biotechnology
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY308,Bioprocess Technology,3,Compulsory,BTY205,Bioprocess Technology
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY310,Biostatistics,2,Compulsory,BTY207,Biostatistics
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY312,Biotechnology Laboratory IV,1,Compulsory,BTY311,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,300,Second Semester,BTY314,Fermentation Technology,3,Compulsory,BTY308,Bioprocess Technology
+
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY401,Industrial Biotechnology,3,Elective,BTY301,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY403,Medical Biotechnology,3,Compulsory,BTY302,Medical Biotechnology
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY405,Agricultural Biotechnology,3,Compulsory,BTY304,Agricultural Biotechnology
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY407,Bioethics and Biosafety,2,Compulsory,None,Bioethics
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY409,Entrepreneurship in Biotechnology,2,Compulsory,None,Entrepreneurship
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY411,Biotechnology Seminar,2,Compulsory,BTY307,Research
+Faculty of Computing and Sciences,Biotechnology,400,First Semester,BTY413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY402,Biotechnology Project,6,Compulsory,BTY307,Research
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY404,Advanced Molecular Biotechnology,3,Elective,BTY302,Molecular Biology
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY406,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY408,Current Trends in Biotechnology,2,Elective,BTY401,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY410,Special Topics in Biotechnology,2,Elective,BTY302,Biotechnology
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY412,Project Defense and Presentation,2,Compulsory,BTY402,Research
+Faculty of Computing and Sciences,Biotechnology,400,Second Semester,BTY414,Biotechnology Innovation and Product Development,3,Elective,BTY401,Biotechnology
+
+
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,BUS101,Introduction to Business,3,Compulsory,None,Management
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,ECO101,Principles of Economics,3,Compulsory,None,Economics
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,ACC101,Principles of Accounting I,3,Compulsory,None,Accounting
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,MTH101,Business Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,BUS103,Introduction to Entrepreneurship,2,Compulsory,None,Entrepreneurship
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Management and Social Sciences,Business Administration,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,BUS102,Business Communication,3,Compulsory,None,Management
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,ECO102,Microeconomics,3,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,ACC102,Principles of Accounting II,3,Compulsory,ACC101,Accounting
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,MTH102,Business Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,BUS104,Introduction to Management,2,Compulsory,BUS101,Management
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Management and Social Sciences,Business Administration,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,BUS201,Principles of Management,3,Compulsory,BUS101,Management
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,BUS203,Business Statistics,3,Compulsory,MTH102,Statistics
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,BUS205,Business Law,3,Compulsory,BUS101,Business Law
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,BUS207,Marketing Principles,3,Compulsory,BUS101,Marketing
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,BUS209,Office Management,2,Compulsory,BUS104,Management
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,ACC201,Financial Accounting,3,Compulsory,ACC102,Accounting
+Faculty of Management and Social Sciences,Business Administration,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,BUS202,Organizational Behaviour,3,Compulsory,BUS201,Management
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,BUS204,Business Finance,3,Compulsory,ACC102,Finance
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,BUS206,Management Information Systems,3,Compulsory,BUS201,Information Systems
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,BUS208,Consumer Behaviour,3,Compulsory,BUS207,Marketing
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,BUS210,Business Research Methods,2,Compulsory,BUS203,Research
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,ACC202,Management Accounting,3,Compulsory,ACC201,Accounting
+Faculty of Management and Social Sciences,Business Administration,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS301,Human Resource Management,3,Compulsory,BUS201,Management
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS303,Production and Operations Management,3,Compulsory,BUS201,Operations Management
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS305,International Business,3,Compulsory,BUS201,International Business
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS307,Research Methods in Business,2,Compulsory,None,Research
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS309,Small Business Management,2,Compulsory,BUS201,Entrepreneurship
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS311,Management Theory,3,Compulsory,BUS201,Management
+Faculty of Management and Social Sciences,Business Administration,300,First Semester,BUS313,Business Data Analysis,2,Compulsory,BUS203,Statistics
+
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS302,Entrepreneurship Development,3,Compulsory,BUS301,Entrepreneurship
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS304,Business Policy Analysis,3,Compulsory,BUS201,Management
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS306,Project Management,3,Compulsory,BUS201,Project Management
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS308,Industrial Relations,3,Compulsory,BUS301,Human Resource Management
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS312,Public Relations Management,2,Compulsory,BUS201,Management
+Faculty of Management and Social Sciences,Business Administration,300,Second Semester,BUS314,Corporate Communication,2,Compulsory,BUS102,Communication
+
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS401,Strategic Management,3,Compulsory,BUS301,Management
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS403,Corporate Governance,3,Compulsory,BUS201,Corporate Management
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS405,Business Ethics,2,Compulsory,None,Business Ethics
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS407,International Marketing,3,Elective,BUS207,Marketing
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS409,Leadership and Organizational Change,3,Compulsory,BUS301,Leadership
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS411,Business Seminar,2,Compulsory,BUS307,Research
+Faculty of Management and Social Sciences,Business Administration,400,First Semester,BUS413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS402,Business Policy and Strategy,3,Compulsory,BUS401,Management
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS404,Business Administration Project,6,Compulsory,BUS307,Research
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS406,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS408,Contemporary Issues in Business,2,Elective,BUS401,Management
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS410,Innovation and Business Development,2,Elective,BUS302,Entrepreneurship
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS412,Project Defense and Presentation,2,Compulsory,BUS404,Research
+Faculty of Management and Social Sciences,Business Administration,400,Second Semester,BUS414,Business Consultancy and Advisory Services,3,Elective,BUS401,Management
+
+Faculty of Management and Social Sciences,Accounting,100,First Semester,ACC101,Principles of Accounting I,3,Compulsory,None,Accounting
+Faculty of Management and Social Sciences,Accounting,100,First Semester,ECO101,Principles of Economics,3,Compulsory,None,Economics
+Faculty of Management and Social Sciences,Accounting,100,First Semester,MTH101,Business Mathematics I,3,Compulsory,None,Mathematics
+Faculty of Management and Social Sciences,Accounting,100,First Semester,BUS101,Introduction to Business,3,Compulsory,None,Management
+Faculty of Management and Social Sciences,Accounting,100,First Semester,ACC103,Introduction to Bookkeeping,2,Compulsory,None,Accounting
+Faculty of Management and Social Sciences,Accounting,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Management and Social Sciences,Accounting,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,ACC102,Principles of Accounting II,3,Compulsory,ACC101,Accounting
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,ECO102,Microeconomics,3,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,MTH102,Business Mathematics II,3,Compulsory,MTH101,Mathematics
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,BUS102,Business Communication,3,Compulsory,BUS101,Management
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,ACC104,Introduction to Cost Accounting,2,Compulsory,ACC103,Accounting
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Management and Social Sciences,Accounting,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Accounting,200,First Semester,ACC201,Financial Accounting I,3,Compulsory,ACC102,Accounting
+Faculty of Management and Social Sciences,Accounting,200,First Semester,ACC203,Business Statistics,3,Compulsory,MTH102,Statistics
+Faculty of Management and Social Sciences,Accounting,200,First Semester,ACC205,Business Law,3,Compulsory,BUS101,Business Law
+Faculty of Management and Social Sciences,Accounting,200,First Semester,ACC207,Public Sector Accounting I,3,Compulsory,ACC102,Public Accounting
+Faculty of Management and Social Sciences,Accounting,200,First Semester,ACC209,Cost Accounting I,3,Compulsory,ACC104,Cost Accounting
+Faculty of Management and Social Sciences,Accounting,200,First Semester,ECO201,Microeconomics,3,Compulsory,ECO102,Economics
+Faculty of Management and Social Sciences,Accounting,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,ACC202,Management Accounting,3,Compulsory,ACC201,Accounting
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,ACC204,Financial Accounting II,3,Compulsory,ACC201,Accounting
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,ACC206,Accounting Information Systems,3,Compulsory,ACC201,Information Systems
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,ACC208,Commercial Law,3,Compulsory,ACC205,Business Law
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,ACC210,Cost Accounting II,3,Compulsory,ACC209,Cost Accounting
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,ECO202,Macroeconomics,3,Compulsory,ECO201,Economics
+Faculty of Management and Social Sciences,Accounting,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC301,Cost Accounting,3,Compulsory,ACC202,Accounting
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC303,Advanced Financial Accounting I,3,Compulsory,ACC204,Accounting
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC305,Public Sector Accounting II,3,Compulsory,ACC207,Public Accounting
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC307,Research Methods in Accounting,2,Compulsory,None,Research
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC309,Corporate Reporting,3,Compulsory,ACC204,Accounting
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC311,Auditing I,3,Compulsory,ACC204,Auditing
+Faculty of Management and Social Sciences,Accounting,300,First Semester,ACC313,Financial Management,3,Compulsory,ACC202,Finance
+
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC302,Taxation,3,Compulsory,ACC301,Taxation
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC304,Advanced Financial Accounting II,3,Compulsory,ACC303,Accounting
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC306,Management Information Systems,3,Compulsory,ACC206,Information Systems
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC308,Accounting Theory,3,Compulsory,ACC301,Accounting
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC312,Auditing II,3,Compulsory,ACC311,Auditing
+Faculty of Management and Social Sciences,Accounting,300,Second Semester,ACC314,Forensic Accounting,3,Compulsory,ACC303,Forensic Accounting
+
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC401,Auditing and Investigation,3,Compulsory,ACC311,Auditing
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC403,Advanced Auditing,3,Compulsory,ACC401,Auditing
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC405,Forensic Accounting,3,Compulsory,ACC314,Forensic Accounting
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC407,Financial Management,3,Compulsory,ACC313,Finance
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC409,Professional Ethics in Accounting,2,Compulsory,None,Professional Ethics
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC411,Accounting Seminar,2,Compulsory,ACC307,Research
+Faculty of Management and Social Sciences,Accounting,400,First Semester,ACC413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC402,Accounting Project,6,Compulsory,ACC307,Research
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC404,Corporate Finance,3,Compulsory,ACC407,Finance
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC406,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC408,Contemporary Issues in Accounting,2,Elective,ACC401,Accounting
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC410,International Accounting,3,Elective,ACC303,Accounting
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC412,Project Defense and Presentation,2,Compulsory,ACC402,Research
+Faculty of Management and Social Sciences,Accounting,400,Second Semester,ACC414,Accounting Standards and Regulations,3,Compulsory,ACC309,Accounting
+
+Faculty of Management and Social Sciences,Economics,100,First Semester,ECO101,Principles of Economics,3,Compulsory,None,Economics
+Faculty of Management and Social Sciences,Economics,100,First Semester,MTH101,Mathematics for Economists I,3,Compulsory,None,Mathematics
+Faculty of Management and Social Sciences,Economics,100,First Semester,ACC101,Principles of Accounting I,3,Compulsory,None,Accounting
+Faculty of Management and Social Sciences,Economics,100,First Semester,ECO103,Introduction to Economic History,2,Compulsory,None,Economic History
+Faculty of Management and Social Sciences,Economics,100,First Semester,ECO105,Introduction to Social Sciences,2,Compulsory,None,Social Sciences
+Faculty of Management and Social Sciences,Economics,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Management and Social Sciences,Economics,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Economics,100,Second Semester,ECO102,Introduction to Microeconomics,3,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Economics,100,Second Semester,MTH102,Mathematics for Economists II,3,Compulsory,MTH101,Mathematics
+Faculty of Management and Social Sciences,Economics,100,Second Semester,ACC102,Principles of Accounting II,3,Compulsory,ACC101,Accounting
+Faculty of Management and Social Sciences,Economics,100,Second Semester,ECO104,Introduction to African Economy,2,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Economics,100,Second Semester,STA102,Introduction to Statistics,2,Compulsory,None,Statistics
+Faculty of Management and Social Sciences,Economics,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Management and Social Sciences,Economics,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Economics,200,First Semester,ECO201,Microeconomics,3,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Economics,200,First Semester,ECO203,Mathematical Economics I,3,Compulsory,MTH102,Mathematical Economics
+Faculty of Management and Social Sciences,Economics,200,First Semester,ECO205,Introduction to Macroeconomics,3,Compulsory,ECO102,Economics
+Faculty of Management and Social Sciences,Economics,200,First Semester,ECO207,Public Finance I,3,Compulsory,ECO101,Public Finance
+Faculty of Management and Social Sciences,Economics,200,First Semester,ECO209,History of Economic Thought,2,Compulsory,ECO103,Economics
+Faculty of Management and Social Sciences,Economics,200,First Semester,STA201,Statistical Methods,2,Compulsory,STA102,Statistics
+Faculty of Management and Social Sciences,Economics,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Management and Social Sciences,Economics,200,Second Semester,ECO202,Statistics for Economics,3,Compulsory,ECO201,Economics
+Faculty of Management and Social Sciences,Economics,200,Second Semester,ECO204,Mathematical Economics II,3,Compulsory,ECO203,Mathematical Economics
+Faculty of Management and Social Sciences,Economics,200,Second Semester,ECO206,Intermediate Microeconomics,3,Compulsory,ECO201,Economics
+Faculty of Management and Social Sciences,Economics,200,Second Semester,ECO208,Public Finance II,3,Compulsory,ECO207,Public Finance
+Faculty of Management and Social Sciences,Economics,200,Second Semester,ECO210,Intermediate Macroeconomics,3,Compulsory,ECO205,Economics
+Faculty of Management and Social Sciences,Economics,200,Second Semester,ECO212,Introduction to Econometrics,2,Compulsory,ECO202,Econometrics
+Faculty of Management and Social Sciences,Economics,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO301,Macroeconomics,3,Compulsory,ECO210,Economics
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO303,International Economics I,3,Compulsory,ECO205,International Economics
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO305,Monetary Economics I,3,Compulsory,ECO205,Monetary Economics
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO307,Research Methods in Economics,2,Compulsory,None,Research
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO309,Agricultural Economics,3,Compulsory,ECO201,Agricultural Economics
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO311,Development Economics I,3,Compulsory,ECO205,Development Economics
+Faculty of Management and Social Sciences,Economics,300,First Semester,ECO313,Labour Economics,2,Compulsory,ECO201,Labour Economics
+
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO302,Econometrics,3,Compulsory,ECO212,Econometrics
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO304,International Economics II,3,Compulsory,ECO303,International Economics
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO306,Monetary Economics II,3,Compulsory,ECO305,Monetary Economics
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO308,Industrial Economics,3,Compulsory,ECO201,Industrial Economics
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO312,Development Economics II,3,Compulsory,ECO311,Development Economics
+Faculty of Management and Social Sciences,Economics,300,Second Semester,ECO314,Population Economics,2,Compulsory,ECO201,Population Economics
+
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO401,Development Economics,3,Elective,ECO311,Economics
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO403,Advanced Econometrics,3,Compulsory,ECO302,Econometrics
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO405,Labour Economics,3,Compulsory,ECO313,Labour Economics
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO407,Petroleum Economics,3,Compulsory,ECO301,Petroleum Economics
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO409,Environmental Economics,3,Elective,ECO301,Environmental Economics
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO411,Economics Seminar,2,Compulsory,ECO307,Research
+Faculty of Management and Social Sciences,Economics,400,First Semester,ECO413,Industrial Attachment Report,2,Compulsory,None,Industrial Training
+
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO402,Economics Project,6,Compulsory,ECO307,Research
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO404,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO406,Comparative Economic Systems,3,Compulsory,ECO301,Economics
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO408,Contemporary Issues in Economics,2,Elective,ECO301,Economics
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO410,Economic Policy Analysis,3,Compulsory,ECO401,Economic Policy
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO412,Project Defense and Presentation,2,Compulsory,ECO402,Research
+Faculty of Management and Social Sciences,Economics,400,Second Semester,ECO414,International Finance and Trade,3,Compulsory,ECO304,International Economics
+
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,PAD101,Introduction to Public Administration,3,Compulsory,None,Public Administration
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,POL101,Introduction to Political Science,3,Compulsory,None,Political Science
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,ECO101,Principles of Economics,3,Compulsory,None,Economics
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,SOC101,Introduction to Sociology,2,Compulsory,None,Sociology
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,PAD103,Introduction to Public Service,2,Compulsory,None,Public Administration
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Management and Social Sciences,Public Administration,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,PAD102,Introduction to Administrative Processes,3,Compulsory,PAD101,Public Administration
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,POL102,Nigerian Government and Politics,3,Compulsory,POL101,Political Science
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,ECO102,Microeconomics,3,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,SOC102,Social Institutions and Processes,2,Compulsory,SOC101,Sociology
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,PAD104,Introduction to Local Government Administration,2,Compulsory,PAD101,Public Administration
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Management and Social Sciences,Public Administration,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,PAD201,Administrative Theory,3,Compulsory,PAD101,Public Administration
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,PAD203,Local Government Administration,3,Compulsory,PAD101,Public Administration
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,PAD205,Public Financial Administration,3,Compulsory,ECO102,Public Finance
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,PAD207,Public Service Management,3,Compulsory,PAD101,Public Administration
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,PAD209,Comparative Public Administration,3,Compulsory,PAD101,Public Administration
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,POL201,Political Theory,3,Compulsory,POL101,Political Science
+Faculty of Management and Social Sciences,Public Administration,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,PAD202,Public Personnel Administration,3,Compulsory,PAD201,Public Administration
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,PAD204,Administrative Law,3,Compulsory,PAD201,Administrative Law
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,PAD206,Public Budgeting and Finance,3,Compulsory,PAD205,Public Finance
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,PAD208,Organization and Management,3,Compulsory,PAD201,Management
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,PAD210,Public Policy Process,3,Compulsory,PAD201,Public Policy
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,POL202,Nigerian Government and Politics,3,Compulsory,POL201,Political Science
+Faculty of Management and Social Sciences,Public Administration,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD301,Public Policy Analysis,3,Compulsory,PAD201,Public Policy
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD303,Comparative Public Administration,3,Compulsory,PAD201,Public Administration
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD305,Research Methods in Public Administration,2,Compulsory,None,Research
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD307,Intergovernmental Relations,3,Compulsory,PAD203,Public Administration
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD309,Development Planning,3,Compulsory,PAD201,Development Administration
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD311,Public Sector Management,3,Compulsory,PAD208,Management
+Faculty of Management and Social Sciences,Public Administration,300,First Semester,PAD313,Administrative Behaviour,2,Compulsory,PAD201,Public Administration
+
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD302,Development Administration,3,Compulsory,PAD301,Public Administration
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD304,Public Enterprise Management,3,Compulsory,PAD208,Management
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD306,Urban and Regional Administration,3,Compulsory,PAD301,Public Administration
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD308,Project Planning and Evaluation,3,Compulsory,PAD301,Project Management
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD312,Public Policy Implementation,3,Compulsory,PAD301,Public Policy
+Faculty of Management and Social Sciences,Public Administration,300,Second Semester,PAD314,Public Administration Seminar,2,Compulsory,PAD305,Research
+
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD401,Public Sector Reform and Governance,3,Compulsory,PAD301,Governance
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD403,Public Policy Implementation,3,Compulsory,PAD301,Public Policy
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD405,Conflict Management and Resolution,3,Compulsory,PAD301,Conflict Management
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD407,International Public Administration,3,Elective,PAD303,Public Administration
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD411,Public Sector Accounting,3,Compulsory,PAD301,Accounting
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD413,Public Administration Seminar,2,Compulsory,PAD305,Research
+Faculty of Management and Social Sciences,Public Administration,400,First Semester,PAD415,Leadership and Governance,3,Compulsory,PAD311,Leadership
+
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD402,Public Administration Project,6,Compulsory,PAD305,Research
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD404,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD406,Contemporary Issues in Public Administration,2,Elective,PAD301,Public Administration
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD408,E-Government and Public Sector Innovation,3,Compulsory,PAD401,E-Government
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD410,Public Administration Seminar II,2,Compulsory,PAD413,Research
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD412,Project Defense and Presentation,2,Compulsory,PAD402,Research
+Faculty of Management and Social Sciences,Public Administration,400,Second Semester,PAD414,Public Administration Consultancy,3,Elective,PAD401,Public Administration
+
+Faculty of Management and Social Sciences,Political Science,100,First Semester,POL101,Introduction to Political Science,3,Compulsory,None,Political Science
+Faculty of Management and Social Sciences,Political Science,100,First Semester,HIS101,Introduction to African History,2,Compulsory,None,History
+Faculty of Management and Social Sciences,Political Science,100,First Semester,SOC101,Introduction to Sociology,2,Compulsory,None,Sociology
+Faculty of Management and Social Sciences,Political Science,100,First Semester,ECO101,Principles of Economics,3,Compulsory,None,Economics
+Faculty of Management and Social Sciences,Political Science,100,First Semester,POL103,Introduction to Government,2,Compulsory,None,Political Science
+Faculty of Management and Social Sciences,Political Science,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Management and Social Sciences,Political Science,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,POL102,Introduction to Nigerian Government,3,Compulsory,POL101,Political Science
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,HIS102,Nigerian Constitutional Development,2,Compulsory,HIS101,History
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,SOC102,Social Institutions and Processes,2,Compulsory,SOC101,Sociology
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,ECO102,Microeconomics,3,Compulsory,ECO101,Economics
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,POL104,Introduction to Public Administration,2,Compulsory,POL101,Public Administration
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Management and Social Sciences,Political Science,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Management and Social Sciences,Political Science,200,First Semester,POL201,Political Theory,3,Compulsory,POL101,Political Science
+Faculty of Management and Social Sciences,Political Science,200,First Semester,POL203,Introduction to Public Administration,3,Compulsory,POL101,Public Administration
+Faculty of Management and Social Sciences,Political Science,200,First Semester,POL205,Political Behaviour,3,Compulsory,POL101,Political Science
+Faculty of Management and Social Sciences,Political Science,200,First Semester,POL207,Research Methods in Political Science,2,Compulsory,None,Research
+Faculty of Management and Social Sciences,Political Science,200,First Semester,POL209,Comparative Politics,3,Compulsory,POL201,Political Science
+Faculty of Management and Social Sciences,Political Science,200,First Semester,SOC201,Political Sociology,3,Compulsory,SOC102,Sociology
+Faculty of Management and Social Sciences,Political Science,200,First Semester,GST201,Entrepreneurship Studies I,2,Compulsory,None,Entrepreneurship
+
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,POL202,Nigerian Government and Politics,3,Compulsory,POL201,Political Science
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,POL204,Political Institutions,3,Compulsory,POL201,Political Science
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,POL206,Public Policy Analysis,3,Compulsory,POL203,Public Policy
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,POL208,Local Government Administration,3,Compulsory,POL203,Public Administration
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,POL210,Politics of Development and Underdevelopment,3,Compulsory,POL201,Development Studies
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,POL212,Political Economy,3,Compulsory,ECO102,Political Economy
+Faculty of Management and Social Sciences,Political Science,200,Second Semester,GST202,Entrepreneurship Studies II,2,Compulsory,GST201,Entrepreneurship
+
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL301,Comparative Politics,3,Compulsory,POL201,Political Science
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL303,Political Parties and Pressure Groups,3,Compulsory,POL201,Political Science
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL305,International Organization,3,Compulsory,POL201,International Relations
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL307,Legislative Studies,3,Compulsory,POL202,Political Science
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL309,Development Administration,3,Compulsory,POL203,Public Administration
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL311,Public Opinion and Propaganda,2,Compulsory,POL205,Political Science
+Faculty of Management and Social Sciences,Political Science,300,First Semester,POL313,Research Seminar in Political Science,2,Compulsory,POL207,Research
+
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL302,Public Administration and Policy,3,Compulsory,POL301,Political Science
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL304,Political Economy,3,Compulsory,ECO102,Political Economy
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL306,Foreign Policy Analysis,3,Compulsory,POL305,International Relations
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL308,Conflict and Peace Studies,3,Compulsory,POL301,Conflict Studies
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL310,Industrial Training Seminar,1,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL312,Electoral Systems and Processes,3,Compulsory,POL202,Political Science
+Faculty of Management and Social Sciences,Political Science,300,Second Semester,POL314,Political Communication,2,Compulsory,POL205,Political Science
+
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL401,International Relations,3,Elective,POL305,International Relations
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL403,Comparative Government,3,Compulsory,POL301,Political Science
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL405,Democratization and Governance,3,Compulsory,POL301,Governance
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL407,Strategic Studies,3,Elective,POL306,International Relations
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL409,Contemporary Political Issues,2,Compulsory,POL301,Political Science
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL411,Political Science Seminar,2,Compulsory,POL313,Research
+Faculty of Management and Social Sciences,Political Science,400,First Semester,POL413,Human Rights and Constitutional Development,3,Compulsory,POL202,Political Science
+
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL402,Political Science Project,6,Compulsory,POL207,Research
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL404,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL406,Nigerian Foreign Policy,3,Compulsory,POL306,International Relations
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL408,Contemporary Issues in International Relations,2,Elective,POL401,International Relations
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL410,Seminar in Political Science,2,Compulsory,POL313,Research
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL412,Project Defense and Presentation,2,Compulsory,POL402,Research
+Faculty of Management and Social Sciences,Political Science,400,Second Semester,POL414,Peace and Conflict Resolution,3,Compulsory,POL308,Conflict Studies
+
+
+Faculty of Law,Law,100,First Semester,LAW101,Introduction to Law,3,Compulsory,None,Law
+Faculty of Law,Law,100,First Semester,LAW103,Legal Methods I,3,Compulsory,None,Law
+Faculty of Law,Law,100,First Semester,HIS101,Nigerian Legal History,2,Compulsory,None,Legal History
+Faculty of Law,Law,100,First Semester,POL101,Introduction to Political Science,2,Compulsory,None,Political Science
+Faculty of Law,Law,100,First Semester,SOC101,Introduction to Sociology,2,Compulsory,None,Sociology
+Faculty of Law,Law,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Law,Law,100,First Semester,GST103,Nigerian Peoples and Culture,2,Compulsory,None,General Studies
+
+Faculty of Law,Law,100,Second Semester,LAW102,Legal Methods II,3,Compulsory,LAW103,Law
+Faculty of Law,Law,100,Second Semester,LAW104,Nigerian Legal System,3,Compulsory,LAW101,Law
+Faculty of Law,Law,100,Second Semester,HIS102,Constitutional Development in Nigeria,2,Compulsory,HIS101,Legal History
+Faculty of Law,Law,100,Second Semester,SOC102,Social Institutions and Processes,2,Compulsory,SOC101,Sociology
+Faculty of Law,Law,100,Second Semester,ECO101,Principles of Economics,2,Compulsory,None,Economics
+Faculty of Law,Law,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Law,Law,100,Second Semester,GST104,Logic Philosophy and Human Existence,2,Compulsory,None,General Studies
+
+Faculty of Law,Law,200,First Semester,LAW201,Constitutional Law I,4,Compulsory,LAW104,Public Law
+Faculty of Law,Law,200,First Semester,LAW203,Law of Contract I,4,Compulsory,LAW104,Private Law
+Faculty of Law,Law,200,First Semester,LAW205,Criminal Law I,4,Compulsory,LAW104,Criminal Law
+Faculty of Law,Law,200,First Semester,LAW207,Islamic Law I,3,Compulsory,LAW104,Islamic Law
+Faculty of Law,Law,200,First Semester,LAW209,Legal Research and Writing,2,Compulsory,LAW103,Research
+Faculty of Law,Law,200,First Semester,LAW211,Jurisprudence I,3,Compulsory,LAW101,Jurisprudence
+
+Faculty of Law,Law,200,Second Semester,LAW202,Constitutional Law II,4,Compulsory,LAW201,Public Law
+Faculty of Law,Law,200,Second Semester,LAW204,Law of Contract II,4,Compulsory,LAW203,Private Law
+Faculty of Law,Law,200,Second Semester,LAW206,Criminal Law II,4,Compulsory,LAW205,Criminal Law
+Faculty of Law,Law,200,Second Semester,LAW208,Islamic Law II,3,Compulsory,LAW207,Islamic Law
+Faculty of Law,Law,200,Second Semester,LAW210,Tort Law I,4,Compulsory,LAW104,Private Law
+Faculty of Law,Law,200,Second Semester,LAW212,Jurisprudence II,3,Compulsory,LAW211,Jurisprudence
+
+Faculty of Law,Public Law,300,First Semester,PUL301,Administrative Law,4,Compulsory,LAW202,Public Law
+Faculty of Law,Public Law,300,First Semester,PUL303,Human Rights Law,4,Compulsory,LAW202,Public Law
+Faculty of Law,Public Law,300,First Semester,PUL305,Environmental Law,3,Compulsory,LAW202,Public Law
+Faculty of Law,Public Law,300,First Semester,PUL307,Legislative Drafting,3,Compulsory,LAW202,Public Law
+Faculty of Law,Public Law,300,First Semester,PUL309,Public Revenue Law,3,Compulsory,LAW202,Public Law
+Faculty of Law,Public Law,300,First Semester,PUL311,Legal Research Methods,2,Compulsory,LAW209,Research
+
+Faculty of Law,Public Law,300,Second Semester,PUL302,Local Government Law,4,Compulsory,PUL301,Public Law
+Faculty of Law,Public Law,300,Second Semester,PUL304,Labour Law,4,Compulsory,LAW204,Labour Law
+Faculty of Law,Public Law,300,Second Semester,PUL306,Election Law,3,Elective,PUL301,Public Law
+Faculty of Law,Public Law,300,Second Semester,PUL308,Public International Law I,4,Compulsory,LAW202,International Law
+Faculty of Law,Public Law,300,Second Semester,PUL310,Taxation Law,3,Compulsory,PUL309,Public Law
+Faculty of Law,Public Law,300,Second Semester,PUL312,Public Law Seminar,2,Compulsory,PUL311,Research
+
+Faculty of Law,Public Law,400,First Semester,PUL401,Public International Law II,4,Compulsory,PUL308,International Law
+Faculty of Law,Public Law,400,First Semester,PUL403,Conflict of Laws,4,Compulsory,PUL308,International Law
+Faculty of Law,Public Law,400,First Semester,PUL405,Advanced Constitutional Law,4,Compulsory,PUL301,Public Law
+Faculty of Law,Public Law,400,First Semester,PUL407,Jurisprudence,4,Compulsory,LAW212,Jurisprudence
+Faculty of Law,Public Law,400,First Semester,PUL409,Law of the Sea,3,Elective,PUL308,International Law
+Faculty of Law,Public Law,400,First Semester,PUL411,Public Law Seminar,2,Compulsory,PUL312,Research
+
+Faculty of Law,Public Law,400,Second Semester,PUL402,Law Project,6,Compulsory,PUL411,Research
+Faculty of Law,Public Law,400,Second Semester,PUL404,Law Clinic and Moot Court,3,Compulsory,PUL301,Practical Law
+Faculty of Law,Public Law,400,Second Semester,PUL406,Legal Research and Writing,3,Compulsory,PUL411,Research
+Faculty of Law,Public Law,400,Second Semester,PUL408,Seminar in Public Law,2,Compulsory,PUL411,Research
+Faculty of Law,Public Law,400,Second Semester,PUL410,International Humanitarian Law,3,Compulsory,PUL401,International Law
+Faculty of Law,Public Law,400,Second Semester,PUL412,Project Defense and Presentation,2,Compulsory,PUL402,Research
+
+Faculty of Law,Private and Property Law,200,First Semester,PPL201,Law of Contract I,4,Compulsory,LAW104,Private Law
+Faculty of Law,Private and Property Law,200,First Semester,PPL203,Law of Torts I,4,Compulsory,LAW104,Private Law
+Faculty of Law,Private and Property Law,200,First Semester,PPL205,Family Law I,3,Compulsory,LAW104,Family Law
+Faculty of Law,Private and Property Law,200,First Semester,PPL207,Equity and Trusts I,4,Compulsory,LAW104,Equity
+Faculty of Law,Private and Property Law,200,First Semester,PPL209,Legal Research and Writing,2,Compulsory,LAW103,Research
+
+Faculty of Law,Private and Property Law,200,Second Semester,PPL202,Law of Contract II,4,Compulsory,PPL201,Private Law
+Faculty of Law,Private and Property Law,200,Second Semester,PPL204,Law of Torts II,4,Compulsory,PPL203,Private Law
+Faculty of Law,Private and Property Law,200,Second Semester,PPL206,Family Law II,3,Compulsory,PPL205,Family Law
+Faculty of Law,Private and Property Law,200,Second Semester,PPL208,Equity and Trusts II,4,Compulsory,PPL207,Equity
+Faculty of Law,Private and Property Law,200,Second Semester,PPL210,Jurisprudence and Legal Theory,3,Compulsory,LAW101,Jurisprudence
+
+Faculty of Law,Private and Property Law,300,First Semester,PPL301,Land Law I,4,Compulsory,PPL201,Property Law
+Faculty of Law,Private and Property Law,300,First Semester,PPL303,Equity and Trusts I,4,Compulsory,PPL208,Equity and Trusts
+Faculty of Law,Private and Property Law,300,First Semester,PPL305,Law of Evidence I,4,Compulsory,PPL204,Evidence Law
+Faculty of Law,Private and Property Law,300,First Semester,PPL307,Commercial Transactions I,3,Compulsory,PPL202,Commercial Law
+Faculty of Law,Private and Property Law,300,First Semester,PPL309,Property Law Seminar,2,Compulsory,PPL209,Research
+
+Faculty of Law,Private and Property Law,300,Second Semester,PPL302,Land Law II,4,Compulsory,PPL301,Property Law
+Faculty of Law,Private and Property Law,300,Second Semester,PPL304,Equity and Trusts II,4,Compulsory,PPL303,Equity and Trusts
+Faculty of Law,Private and Property Law,300,Second Semester,PPL306,Law of Evidence II,4,Compulsory,PPL305,Evidence Law
+Faculty of Law,Private and Property Law,300,Second Semester,PPL308,Commercial Transactions II,3,Compulsory,PPL307,Commercial Law
+Faculty of Law,Private and Property Law,300,Second Semester,PPL310,Alternative Dispute Resolution,3,Compulsory,PPL305,Dispute Resolution
+
+Faculty of Law,Private and Property Law,400,First Semester,PPL401,Conveyancing Law and Practice,4,Compulsory,PPL302,Property Law
+Faculty of Law,Private and Property Law,400,First Semester,PPL403,Law of Succession,4,Compulsory,PPL206,Succession Law
+Faculty of Law,Private and Property Law,400,First Semester,PPL405,Conflict of Laws,4,Compulsory,PPL304,Private Law
+Faculty of Law,Private and Property Law,400,First Semester,PPL407,Advanced Property Law,4,Compulsory,PPL302,Property Law
+Faculty of Law,Private and Property Law,400,First Semester,PPL409,Private and Property Law Seminar,2,Compulsory,PPL309,Research
+
+Faculty of Law,Private and Property Law,400,Second Semester,PPL402,Private and Property Law Project,6,Compulsory,PPL409,Research
+Faculty of Law,Private and Property Law,400,Second Semester,PPL404,Legal Drafting and Conveyancing Practice,3,Compulsory,PPL401,Legal Practice
+Faculty of Law,Private and Property Law,400,Second Semester,PPL406,Seminar in Private and Property Law,2,Compulsory,PPL409,Research
+Faculty of Law,Private and Property Law,400,Second Semester,PPL408,Alternative Property Dispute Resolution,3,Compulsory,PPL310,Dispute Resolution
+Faculty of Law,Private and Property Law,400,Second Semester,PPL410,Project Defense and Presentation,2,Compulsory,PPL402,Research
+
+Faculty of Law,Commercial and Industrial Law,300,First Semester,CIL301,Company Law I,4,Compulsory,PPL202,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,First Semester,CIL303,Banking and Insurance Law I,4,Compulsory,PPL202,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,First Semester,CIL305,Law of Business Associations,4,Compulsory,PPL202,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,First Semester,CIL307,Law of Sale of Goods,3,Compulsory,PPL202,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,First Semester,CIL309,Commercial Law Seminar,2,Compulsory,PPL209,Research
+Faculty of Law,Commercial and Industrial Law,300,First Semester,CIL311,Negotiable Instruments Law,3,Compulsory,PPL202,Commercial Law
+
+Faculty of Law,Commercial and Industrial Law,300,Second Semester,CIL302,Company Law II,4,Compulsory,CIL301,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,Second Semester,CIL304,Banking and Insurance Law II,4,Compulsory,CIL303,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,Second Semester,CIL306,Consumer Protection Law,3,Compulsory,CIL307,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,Second Semester,CIL308,Commercial Arbitration,3,Elective,CIL301,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,Second Semester,CIL310,Investment and Securities Law,3,Compulsory,CIL301,Commercial Law
+Faculty of Law,Commercial and Industrial Law,300,Second Semester,CIL312,International Trade Law,3,Compulsory,CIL307,Commercial Law
+
+Faculty of Law,Commercial and Industrial Law,400,First Semester,CIL401,Labour Law,4,Compulsory,CIL301,Industrial Law
+Faculty of Law,Commercial and Industrial Law,400,First Semester,CIL403,Intellectual Property Law,4,Compulsory,CIL301,Commercial Law
+Faculty of Law,Commercial and Industrial Law,400,First Semester,CIL405,Petroleum and Energy Law,4,Elective,CIL301,Energy Law
+Faculty of Law,Commercial and Industrial Law,400,First Semester,CIL407,International Trade Law,4,Compulsory,CIL312,Commercial Law
+Faculty of Law,Commercial and Industrial Law,400,First Semester,CIL409,Commercial and Industrial Law Seminar,2,Compulsory,CIL309,Research
+Faculty of Law,Commercial and Industrial Law,400,First Semester,CIL411,Corporate Insolvency and Restructuring Law,3,Compulsory,CIL302,Corporate Law
+
+Faculty of Law,Commercial and Industrial Law,400,Second Semester,CIL402,Commercial and Industrial Law Project,6,Compulsory,CIL409,Research
+Faculty of Law,Commercial and Industrial Law,400,Second Semester,CIL404,Corporate Governance Law,4,Compulsory,CIL302,Corporate Law
+Faculty of Law,Commercial and Industrial Law,400,Second Semester,CIL406,Competition and Consumer Law,3,Compulsory,CIL306,Commercial Law
+Faculty of Law,Commercial and Industrial Law,400,Second Semester,CIL408,Seminar in Commercial and Industrial Law,2,Compulsory,CIL409,Research
+Faculty of Law,Commercial and Industrial Law,400,Second Semester,CIL410,Project Defense and Presentation,2,Compulsory,CIL402,Research
+Faculty of Law,Commercial and Industrial Law,400,Second Semester,CIL412,International Commercial Arbitration,3,Elective,CIL308,Commercial Law
+
+Faculty of Law,International Law and Jurisprudence,300,First Semester,ILJ301,Jurisprudence I,4,Compulsory,LAW212,Jurisprudence
+Faculty of Law,International Law and Jurisprudence,300,First Semester,ILJ303,Public International Law I,4,Compulsory,LAW202,International Law
+Faculty of Law,International Law and Jurisprudence,300,First Semester,ILJ305,Legal Theory and Philosophy,4,Compulsory,LAW212,Jurisprudence
+Faculty of Law,International Law and Jurisprudence,300,First Semester,ILJ307,Human Rights Law,4,Compulsory,LAW202,Human Rights Law
+Faculty of Law,International Law and Jurisprudence,300,First Semester,ILJ309,International Law Seminar,2,Compulsory,LAW209,Research
+
+Faculty of Law,International Law and Jurisprudence,300,Second Semester,ILJ302,Jurisprudence II,4,Compulsory,ILJ301,Jurisprudence
+Faculty of Law,International Law and Jurisprudence,300,Second Semester,ILJ304,Public International Law II,4,Compulsory,ILJ303,International Law
+Faculty of Law,International Law and Jurisprudence,300,Second Semester,ILJ306,Law of International Organizations,4,Compulsory,ILJ303,International Law
+Faculty of Law,International Law and Jurisprudence,300,Second Semester,ILJ308,International Human Rights Law,4,Compulsory,ILJ307,Human Rights Law
+Faculty of Law,International Law and Jurisprudence,300,Second Semester,ILJ310,Comparative Legal Systems,3,Compulsory,ILJ301,Jurisprudence
+
+Faculty of Law,International Law and Jurisprudence,400,First Semester,ILJ401,International Law,4,Compulsory,ILJ304,International Law
+Faculty of Law,International Law and Jurisprudence,400,First Semester,ILJ403,Diplomatic and Consular Law,4,Compulsory,ILJ304,International Law
+Faculty of Law,International Law and Jurisprudence,400,First Semester,ILJ405,International Humanitarian Law,4,Compulsory,ILJ304,International Law
+Faculty of Law,International Law and Jurisprudence,400,First Semester,ILJ407,Conflict of Laws,4,Elective,ILJ302,International Law
+Faculty of Law,International Law and Jurisprudence,400,First Semester,ILJ409,International Law Seminar,2,Compulsory,ILJ309,Research
+
+Faculty of Law,International Law and Jurisprudence,400,Second Semester,ILJ402,International Law and Jurisprudence Project,6,Compulsory,ILJ409,Research
+Faculty of Law,International Law and Jurisprudence,400,Second Semester,ILJ404,Law of the Sea,4,Compulsory,ILJ401,International Law
+Faculty of Law,International Law and Jurisprudence,400,Second Semester,ILJ406,International Criminal Law,4,Compulsory,ILJ405,International Law
+Faculty of Law,International Law and Jurisprudence,400,Second Semester,ILJ408,Seminar in International Law and Jurisprudence,2,Compulsory,ILJ409,Research
+Faculty of Law,International Law and Jurisprudence,400,Second Semester,ILJ410,Project Defense and Presentation,2,Compulsory,ILJ402,Research
+
+Faculty of Law,Islamic Law,100,First Semester,ISL101,Introduction to Islamic Law,3,Compulsory,None,Islamic Law
+Faculty of Law,Islamic Law,100,First Semester,ISL103,Arabic Language for Legal Studies I,2,Compulsory,None,Arabic Studies
+Faculty of Law,Islamic Law,100,First Semester,LAW101,Introduction to Law,3,Compulsory,None,Law
+Faculty of Law,Islamic Law,100,First Semester,GST101,Use of English I,2,Compulsory,None,General Studies
+Faculty of Law,Islamic Law,100,First Semester,HIS101,History of Islamic Civilization,2,Compulsory,None,Islamic History
+
+Faculty of Law,Islamic Law,100,Second Semester,ISL102,Introduction to Islamic Jurisprudence,3,Compulsory,ISL101,Islamic Law
+Faculty of Law,Islamic Law,100,Second Semester,ISL104,Arabic Language for Legal Studies II,2,Compulsory,ISL103,Arabic Studies
+Faculty of Law,Islamic Law,100,Second Semester,LAW102,Legal Methods,3,Compulsory,LAW101,Law
+Faculty of Law,Islamic Law,100,Second Semester,GST102,Use of English II,2,Compulsory,GST101,General Studies
+Faculty of Law,Islamic Law,100,Second Semester,SOC101,Introduction to Sociology,2,Compulsory,None,Sociology
+
+Faculty of Law,Islamic Law,200,First Semester,ISL201,Islamic Family Law I,4,Compulsory,LAW104,Islamic Law
+Faculty of Law,Islamic Law,200,First Semester,ISL203,Islamic Jurisprudence I,4,Compulsory,LAW104,Islamic Law
+Faculty of Law,Islamic Law,200,First Semester,ISL205,Islamic Criminal Law I,4,Compulsory,LAW104,Islamic Law
+Faculty of Law,Islamic Law,200,First Semester,ISL207,Sources of Islamic Law,3,Compulsory,LAW104,Islamic Law
+Faculty of Law,Islamic Law,200,First Semester,ISL209,Arabic for Legal Studies I,2,Compulsory,None,Arabic Studies
+
+Faculty of Law,Islamic Law,200,Second Semester,ISL202,Islamic Family Law II,4,Compulsory,ISL201,Islamic Law
+Faculty of Law,Islamic Law,200,Second Semester,ISL204,Islamic Jurisprudence II,4,Compulsory,ISL203,Islamic Law
+Faculty of Law,Islamic Law,200,Second Semester,ISL206,Islamic Criminal Law II,4,Compulsory,ISL205,Islamic Law
+Faculty of Law,Islamic Law,200,Second Semester,ISL208,Islamic Commercial Law I,4,Compulsory,ISL203,Islamic Law
+Faculty of Law,Islamic Law,200,Second Semester,ISL210,Arabic for Legal Studies II,2,Compulsory,ISL209,Arabic Studies
+
+Faculty of Law,Islamic Law,300,First Semester,ISL301,Islamic Law of Succession,4,Compulsory,ISL201,Islamic Law
+Faculty of Law,Islamic Law,300,First Semester,ISL303,Islamic Commercial Law II,4,Compulsory,ISL208,Islamic Law
+Faculty of Law,Islamic Law,300,First Semester,ISL305,Islamic Constitutional Law,4,Compulsory,ISL203,Islamic Law
+Faculty of Law,Islamic Law,300,First Semester,ISL307,Islamic Law of Evidence,4,Compulsory,ISL203,Islamic Law
+Faculty of Law,Islamic Law,300,First Semester,ISL309,Islamic Law Seminar I,2,Compulsory,ISL210,Research
+
+Faculty of Law,Islamic Law,300,Second Semester,ISL302,Islamic Law of Wills and Endowments,4,Compulsory,ISL301,Islamic Law
+Faculty of Law,Islamic Law,300,Second Semester,ISL304,Islamic International Law,4,Compulsory,ISL203,Islamic Law
+Faculty of Law,Islamic Law,300,Second Semester,ISL306,Comparative Islamic and Common Law,4,Compulsory,ISL203,Comparative Law
+Faculty of Law,Islamic Law,300,Second Semester,ISL308,Research Methods in Islamic Law,2,Compulsory,None,Research
+Faculty of Law,Islamic Law,300,Second Semester,ISL310,Islamic Legal Drafting,3,Compulsory,ISL307,Islamic Law
+
+Faculty of Law,Islamic Law,400,First Semester,ISL401,Advanced Islamic Jurisprudence,4,Compulsory,ISL204,Islamic Law
+Faculty of Law,Islamic Law,400,First Semester,ISL403,Contemporary Issues in Islamic Law,4,Compulsory,ISL203,Islamic Law
+Faculty of Law,Islamic Law,400,First Semester,ISL405,Islamic Banking and Finance Law,4,Compulsory,ISL303,Islamic Finance
+Faculty of Law,Islamic Law,400,First Semester,ISL407,Human Rights in Islamic Law,4,Elective,ISL305,Human Rights
+Faculty of Law,Islamic Law,400,First Semester,ISL409,Islamic Law Seminar,2,Compulsory,ISL309,Research
+
+Faculty of Law,Islamic Law,400,Second Semester,ISL402,Islamic Law Project,6,Compulsory,ISL308,Research
+Faculty of Law,Islamic Law,400,Second Semester,ISL404,Seminar in Islamic Law,2,Compulsory,ISL309,Research
+Faculty of Law,Islamic Law,400,Second Semester,ISL406,Islamic Law and Modern Society,4,Compulsory,ISL403,Islamic Law
+Faculty of Law,Islamic Law,400,Second Semester,ISL408,Industrial Attachment Report and Seminar,2,Compulsory,None,Industrial Training
+Faculty of Law,Islamic Law,400,Second Semester,ISL410,Project Defense and Presentation,2,Compulsory,ISL402,Research
