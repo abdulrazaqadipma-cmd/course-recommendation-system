@@ -1,75 +1,68 @@
-import json
-import os
 import streamlit as st
-
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-USER_FILE = os.path.join(BASE_DIR, "data", "users.json")
-
-
-def create_user_file():
-    os.makedirs(os.path.dirname(USER_FILE), exist_ok=True)
-
-    if not os.path.exists(USER_FILE):
-        users = [
-            {
-                "username": "MIUSTD2021111",
-                "password": "123456"
-            }
-        ]
-
-        with open(USER_FILE, "w") as file:
-            json.dump(users, file, indent=4)
-
-
-def load_users():
-    create_user_file()
-
-    with open(USER_FILE, "r") as file:
-        return json.load(file)
-
-
-def save_users(users):
-    with open(USER_FILE, "w") as file:
-        json.dump(users, file, indent=4)
+from recommendation.database import get_connection, init_db
 
 
 def register_user(username, password):
-    users = load_users()
+    init_db()
+    conn = get_connection()
+    cur = conn.cursor()
 
-    for user in users:
-        if user["username"] == username:
-            return False
-
-    users.append({
-        "username": username,
-        "password": password
-    })
-
-    save_users(users)
-    return True
+    try:
+        cur.execute(
+            "INSERT INTO users (username, password) VALUES (?, ?)",
+            (username, password)
+        )
+        conn.commit()
+        return True
+    except:
+        return False
+    finally:
+        conn.close()
 
 
 def login_user(username, password):
-    users = load_users()
+    init_db()
+    conn = get_connection()
+    cur = conn.cursor()
 
-    for user in users:
-        if user["username"] == username and user["password"] == password:
-            return True
+    cur.execute(
+        "SELECT * FROM users WHERE username = ? AND password = ?",
+        (username, password)
+    )
 
-    return False
+    user = cur.fetchone()
+    conn.close()
+
+    return user is not None
 
 
 def change_user_details(current_username, current_password, new_username, new_password):
-    users = load_users()
+    init_db()
+    conn = get_connection()
+    cur = conn.cursor()
 
-    for user in users:
-        if user["username"] == current_username and user["password"] == current_password:
-            user["username"] = new_username
-            user["password"] = new_password
-            save_users(users)
-            return True
+    cur.execute(
+        "SELECT * FROM users WHERE username = ? AND password = ?",
+        (current_username, current_password)
+    )
 
-    return False
+    user = cur.fetchone()
+
+    if user is None:
+        conn.close()
+        return False
+
+    try:
+        cur.execute(
+            "UPDATE users SET username = ?, password = ? WHERE id = ?",
+            (new_username, new_password, user["id"])
+        )
+        conn.commit()
+        return True
+    except:
+        return False
+    finally:
+        conn.close()
 
 
 def require_login():
