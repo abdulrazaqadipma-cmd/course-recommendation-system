@@ -1,4 +1,7 @@
 import streamlit as st
+from recommendation.auth import require_login
+
+require_login()
 import pandas as pd
 import os
 
